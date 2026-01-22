@@ -1,0 +1,13 @@
+# données lourdes
+data/*.csv
+
+# python
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# environnement
+.env
+.venv
